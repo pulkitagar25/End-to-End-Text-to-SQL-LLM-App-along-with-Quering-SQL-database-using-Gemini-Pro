@@ -4,6 +4,8 @@ This project demonstrates the power of natural language processing to simplify d
 
 **How it works:**
 
+![How it works](image.png)
+
 1. **User Input:** The user enters a natural language question about the database.
 2. **Query Generation:** The Gemini Pro model processes the question and generates an equivalent SQL query.
 3. **Database Execution:** The generated SQL query is executed against the specified database.
